@@ -85,7 +85,8 @@ void loop()
 }
 ```
 ## OUTPUT
-![1](https://github.com/SowmyaVisvanathan/Led-control-using-Arduino/assets/119475775/fc22779c-c2b2-4e6e-babb-9ce7b95e48d4)
+![1](https://github.com/SowmyaVisvanathan/Led-control-using-Arduino/assets/119475775/91f464cd-9bf6-4d7e-9358-cc4e4d584206)
+
 
 
 ## RESULT
