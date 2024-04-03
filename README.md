@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+#### NAME : Sowmya V
+#### REG NO : 212222110045
+# EXPERIMENT 1 - Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
