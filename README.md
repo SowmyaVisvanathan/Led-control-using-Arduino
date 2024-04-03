@@ -85,7 +85,8 @@ void loop()
 }
 ```
 ## OUTPUT
-![image](https://github.com/SowmyaVisvanathan/Led-control-using-Arduino/assets/119475775/a34d1855-38c4-450c-858e-67e23bd1fe92)
+![1](https://github.com/SowmyaVisvanathan/Led-control-using-Arduino/assets/119475775/fc22779c-c2b2-4e6e-babb-9ce7b95e48d4)
+
 
 ## RESULT
 Thus an LED control system using arduino microcontroller and push button is executed.
